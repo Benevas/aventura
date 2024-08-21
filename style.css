@@ -21,7 +21,7 @@ button {
  display: none;
 }
 
-.card .ativo{
+.card.ativo{
     display: block;
 }
 
