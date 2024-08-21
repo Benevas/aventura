@@ -17,6 +17,13 @@ button {
     font-family: "Bai Jamjuree", sans-serif;
 }
 
+.card.ativo{
+    display: block;
+}
+
+div{
+    display: none;
+}
 
 main {
     text-align: center;
