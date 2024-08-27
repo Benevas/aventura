@@ -9,5 +9,3 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
-
-//precisa mudar o nome das class
